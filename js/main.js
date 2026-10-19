@@ -35,7 +35,7 @@ let comments = [
     likes: 132,
     text:
       "Hűha, tényleg ostobának érzem magam, hogy nem fedeztem fel ezt az információt korábban. Megnéztem a teljes videót, és végre sok minden összeállt a fejemben. Köszönöm, hogy megosztották ezt a tartalmat.",
-    avatar: "MK",
+    avatar: "assets/img/pf1.webp",
     liked: false,
     replies: [
       {
@@ -45,7 +45,7 @@ let comments = [
         likes: 58,
         text:
           "Én is végignéztem a teljes videót, és be kell vallanom, hogy felnyitotta a szemem. Egyszerű információk, mégis hatalmas különbséget tehetnek.",
-        avatar: "KN",
+        avatar: "assets/img/pf2.webp",
         liked: false
       }
     ]
@@ -58,7 +58,7 @@ let comments = [
     likes: 102,
     text:
       "A LEGJOBB BEMUTATÓ, AMIT RÉGÓTA LÁTTAM! Évekig azt hittem, hogy egyes problémák egyszerűen az életkorral járnak. Miután megnéztem ezt a videót, teljesen megváltozott a hozzáállásom.",
-    avatar: "ÁV",
+    avatar: "assets/img/pf3.jpeg",
     liked: false,
     replies: [
       {
@@ -68,7 +68,7 @@ let comments = [
         likes: 61,
         text:
           "Ostobán érzem magam, hogy nem néztem utána ennek a témának korábban. Hihetetlen, mennyire megváltozhat az ember élete, ha végre tudja, mit kell tennie.",
-        avatar: "SK",
+        avatar: "assets/img/pf4.jpeg",
         liked: false
       }
     ]
@@ -81,7 +81,7 @@ let comments = [
     likes: 78,
     text:
       "Követtem a videóban bemutatott tanácsokat, és ma sokkal jobban érzem magam a bőrömben. Kár, hogy nem találtam meg ezt az információt évekkel ezelőtt.",
-    avatar: "TS",
+    avatar: "assets/img/pf5.jpeg",
     liked: false
   },
 
@@ -92,7 +92,7 @@ let comments = [
     likes: 60,
     text:
       "Gratulálok a tartalomhoz. A videó megtekintése után sokkal nyugodtabbnak és magabiztosabbnak érzem magam. Köszönöm, hogy szóba hozták azt a témát, amit oly sok férfi elkerül.",
-    avatar: "PL",
+    avatar: "assets/img/pf6.webp",
     liked: false
   },
 
@@ -103,7 +103,7 @@ let comments = [
     likes: 146,
     text:
       "Micsoda hihetetlen felfedezés. Néhány hét alatt sokkal energikusabbnak és pozitívabbnak éreztem magam. Őszintén szólva nem gondoltam volna, hogy ilyen apró változásoknak ekkora hatása lehet.",
-    avatar: "LM",
+    avatar: "assets/img/pf7.jpeg",
     liked: false,
     replies: [
       {
@@ -113,7 +113,7 @@ let comments = [
         likes: 63,
         text:
           "Hűha, nem gondoltam volna, hogy valami ilyen egyszerű segít visszaszerezni az önbizalmamat és a nyugalmamat a mindennapi életben. Tényleg hasznos videó!",
-        avatar: "RB",
+        avatar: "assets/img/pf8.jpeg",
         liked: false
       }
     ]
